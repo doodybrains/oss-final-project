@@ -47,7 +47,7 @@ Since Dan is the only contributor and coordinator at the moment we must sync up 
 
 ## Documentation
 *Describe your plan for documentation. Will you keep a blog? Make videos? Some project management tool? Track everything on GitHub as issues?*
-- organizer.network docomentation: As Dan mentioned, documentation "is very important to the project". Every step of the way will be accompanied by a document with the corresponding feature, design choice or guide.
+- organizer.network [documentation](https://organizer.network/group/meta): As Dan mentioned, documentation "is very important to the project". Every step of the way will be accompanied by a document with the corresponding feature, design choice or guide.
 - Work process documentation: We are using organizer.network meta-channel to coordinate our work, ask and answer questions, and for general announcements. Therefore, naturally, we are creating a documentation of our process.
 
 ## Mentoring
