@@ -10,10 +10,12 @@ organizer.network is a tool for social justice organizing. It was created and is
 
 ## Define the problem. 
 *What is the current state of things? What issue do you wish to solve and why? Who is the audience?*
+
 organizer.network is a fully working and usable tool. The documentation for how to run the code and how to run your own instance is still in its early stages. We would like to help in making the documentation as low level as possible so that the audience, whether they are an experience organizer wishing to have more control of their data or a software engineer, can access the code and understand how best to use organizer.network for their own purposes.
 
 ## Deliverables
 *Propose a clear list of deliverables.*
+
 - organizer.network version 0.0.7 (or higher): create a stable set of upgrades to be released as the next version(s)
 - User Guides: from how to install and implement your own instance to how to contribute
 - Roadmap: features and developments for the future
