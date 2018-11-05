@@ -16,7 +16,7 @@ organizer.network is a fully working and usable tool. The documentation for how 
 ## Deliverables
 *Propose a clear list of deliverables.*
 
-- organizer.network version 0.0.7 (or higher): create a stable set of upgrades to be released as the next version(s)
+- organizer.network version 0.0.8 (or higher): create a stable set of upgrades to be released as the next version(s)
 - User Guides: from how to install and implement your own instance to how to contribute
 - Roadmap: features and developments for the future
 - Distribute: Increasing the number of organizers & people using organizer.network
