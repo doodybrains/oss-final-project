@@ -20,6 +20,7 @@ organizer.network is a fully working and usable tool. The documentation for how 
 - User Guides: from how to install and implement your own instance to how to contribute
 - Roadmap: features and developments for the future
 - Distribute: Increasing the number of organizers & people using organizer.network
+- Bring up accessibility as a deliverable
 
 ## Implementation
 *Describe the technical details about your implementation and development process.*
@@ -34,16 +35,15 @@ Since Dan is the only contributor and coordinator at the moment we must sync up 
 
 ### Week 2
 * Development of documentation for installing organizer.network according to our own experiences
-* 
 
 ### Week 3
-* Task list
+* Each of us would have a designated "issue" to take on.
 
 ### Week 4
-* Task list
+* Work week, continuing to submit code/documentation to organizer.network repository
 
 ### Week 5
-* Task list
+* Buffer time for wrapping up issues and proper documentation.
 
 ## Documentation
 *Describe your plan for documentation. Will you keep a blog? Make videos? Some project management tool? Track everything on GitHub as issues?*
