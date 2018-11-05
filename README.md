@@ -54,6 +54,12 @@ Since Dan is the only contributor and coordinator at the moment we must sync up 
 *List some possible mentors for this project. Describe what kinds of help you need (technical, conceptual, outreach, etc.)*
 - Dan Phiffer, https://phiffer.org/
 
+Possible mentors:
+- Alejandro
+- Seho
+- Jen Kagan
+- Mithru
+
 ## More about you
 *emma rae norton*
 I am very interested in open source as a model for making, collaborating, and organizing. My first contribution to an open source GitHub repository was quickly shut down for contributing something that didn't meet the repository owner's expectations, none of which were outlined to begin with. Fearing that this would happen again I have been wary of overstepping my bounds but have since found comfort in contributing to those projects that have clear guidelines and prioritize care over code.
