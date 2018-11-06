@@ -50,6 +50,14 @@ Since Dan is the only contributor and coordinator at the moment we must sync up 
 - organizer.network [documentation](https://organizer.network/group/meta): As Dan mentioned, documentation "is very important to the project". Every step of the way will be accompanied by a document with the corresponding feature, design choice or guide.
 - Work process documentation: We are using organizer.network meta-channel to coordinate our work, ask and answer questions, and for general announcements. Therefore, naturally, we are creating a documentation of our process.
 
+## Longer-Term Goals
+
+In the long term we will be able to continue working closely with Dan. We will hopefully have built up a strong enough process so that we can also onboard others who are interested in using the tool and/or contributing to the repository.
+
+## Accessibility
+
+Currently the web interface for organizer.network is not up to par with basic accessibility standards. This is something we want to work on as a part of this project. It would also be good to integrate a process for accessilibity testing before merging in any code.
+
 ## Mentoring
 *List some possible mentors for this project. Describe what kinds of help you need (technical, conceptual, outreach, etc.)*
 - Dan Phiffer, https://phiffer.org/
