@@ -5,8 +5,8 @@ for my final project i collaborated with two classmates and contributed to the s
 ## Team Members
 
 emma
-hadar
-nico
+@nicolaspe
+@Hbentzur
 
 ## Deliverables / Work Product
 
