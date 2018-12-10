@@ -14,7 +14,7 @@ _What did you deliver? Link to all relevant project pages (GitHub repo, pull req
 
 ## Define the problem you addressed and greater landscape
 
-_Describe the community around your project. What is the current state of things? What issue do you wish to solve and why? What need does this project fill? What similar projects did you refer to / build off of? What sets your project apart?_
+organizer.network was built by Dan Pfiffer who was also our mentor throughout this project. Currently organizer.network is a fully working tool that anyone with an email address can use. The issue we set out to solve was how to make the documentation for setting up a personal instance better so that people interested could create their own organizer.netorks. The tool itself fills an immediate need for social justice organizers who want to organize and interact on a platform that is free and also does not exploit their use of it. The structure of the project is similar to projects like Mastodon in that there can be many different instances of organizer.network and each instance only cares about its own users. 
 
 ## Implementation
 1. _What themes, readings, and discussion from [the first half of this course](https://github.com/Open-Source-Studio-at-ITP/Syllabus) were most relevant to your work on this project? Version Control, Community / Code of Conduct, Unit Testing, Documentation and Accessibility, Software Licensing, Project Funding_
