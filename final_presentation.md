@@ -92,3 +92,5 @@ _What do you see as the longer term plan for this project and your project invol
 
 @nicolaspe : I would love to continue contributing to the project, specially by bringing an activist community to it and have active users on it.
 
+@emmarae: i would also love to continue contributing. these kinds of projects, which to me fall under the umbrella of other and postive ways of being online, are ones that i really care about and if i could i would spend all my time making them happen!
+
