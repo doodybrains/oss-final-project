@@ -36,6 +36,9 @@ organizer.network was built by Dan Pfiffer who was also our mentor throughout th
 
 Currently organizer.network is a fully working tool that anyone with an email address can use. The issue we set out to solve was how to make the documentation for setting up a personal instance better so that people interested could create their own organizer.netorks.
 
+Initially we had different ideas about how to contribute. Hadar initially wanted to contribute to the visual design. Nico initially wanted to contribute to accessibility. Emma initially wanted to contribute to smaller issues in the codebase. 
+
+We quickly landed on the contributing to the setup guide because with the time alotted it seemed like the most straightforward way to contribute while also allowing Dan to continue building out code base and updating versions ~ which we think is imperative to building out the early stages of any project.
 
 ## Implementation
 1. _What themes, readings, and discussion from [the first half of this course](https://github.com/Open-Source-Studio-at-ITP/Syllabus) were most relevant to your work on this project? Version Control, Community / Code of Conduct, Unit Testing, Documentation and Accessibility, Software Licensing, Project Funding_
